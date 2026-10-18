@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SAQI Assistant</string>
+    <string name="author_tag">Made by Aqeel Saqi</string>
+    <string name="permission_onboarding_title">Permissions for SAQI</string>
+    <string name="permission_onboarding_desc">To give SAQI full device superpowers and zero-touch responsiveness, grant the required permissions.</string>
+    <string name="perm_audio_title">Microphone Access</string>
+    <string name="perm_audio_desc">For real-time bi-directional voice streaming and &quot;SAQI&quot; wake-word detection.</string>
+    <string name="perm_contacts_title">Contacts Access</string>
+    <string name="perm_contacts_desc">Allows SAQI to find phone numbers and send messages or place calls for you.</string>
+    <string name="perm_phone_title">Phone Call Direct</string>
+    <string name="perm_phone_desc">Enables hands-free voice dialing when you ask SAQI to call someone.</string>
+    <string name="perm_notifications_title">Foreground Service Notifications</string>
+    <string name="perm_notifications_desc">Keeps SAQI active in the background ready to wake up on &quot;SAQI&quot;.</string>
+    <string name="grant_permissions">Grant All Permissions</string>
+    <string name="permissions_granted">All Permissions Granted</string>
+    <string name="wake_word_label">Wake-Word: &quot;SAQI&quot;</string>
+    <string name="service_notification_title">SAQI Voice Assistant is Active</string>
+    <string name="service_notification_text">Listening for &quot;SAQI&quot; in the background</string>
+    <string name="service_channel_name">SAQI Assistant Service</string>
+    <string name="service_channel_desc">Shows status of SAQI background listening service</string>
+</resources>

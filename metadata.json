@@ -1,0 +1,6 @@
+{
+  "name": "SAQI Assistant",
+  "description": "Real-time, zero-touch voice assistant with a sassy personality, Gemini Live audio streaming, wake-word activation, and device control tools. Made by Aqeel Saqi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
